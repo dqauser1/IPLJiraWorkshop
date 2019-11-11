@@ -1,1 +1,2 @@
-This is my third file
+1: This is my third file
+This is the last line from master branch
